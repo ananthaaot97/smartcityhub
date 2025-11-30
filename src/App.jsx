@@ -1936,7 +1936,7 @@ function Dashboard() {
           <div className="content-header">
             <div className="content-title-block">
               <div className="city-title">
-                NeoVille Smart City
+                Vijayawada Smart City
                 <span className="badge">
                   FEDF-PS21 • Smart City Application
                 </span>
