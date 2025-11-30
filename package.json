@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage" : "https://ananthaaot97.github.io/smartcity/",
+  "homepage" : "https://ananthaaot97.github.io/smartcithuby/",
 "scripts": {
   "lint": "eslint .",
   "dev": "vite",
